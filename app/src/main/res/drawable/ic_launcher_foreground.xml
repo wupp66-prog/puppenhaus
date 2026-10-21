@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Bens Gesicht als App-Symbol (108dp, sichtbarer Bereich in der Mitte) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#F5C6A0" android:pathData="M29,58 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0 Z" />
+    <path android:fillColor="#F5C6A0" android:pathData="M67,58 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0 Z" />
+    <path android:fillColor="#F5C6A0" android:pathData="M30,56 a24,24 0 1,0 48,0 a24,24 0 1,0 -48,0 Z" />
+    <path android:fillColor="#8B5A2B" android:pathData="M30,53 Q29,31 54,30 Q79,31 78,53 Q74,43 67,44 L64,37 L59,43 L54,35 L49,43 L44,37 L41,45 Q34,44 30,53 Z" />
+    <path android:fillColor="#2B2B2B" android:pathData="M42,57 a3.6,4.4 0 1,0 7.2,0 a3.6,4.4 0 1,0 -7.2,0 Z" />
+    <path android:fillColor="#2B2B2B" android:pathData="M58.8,57 a3.6,4.4 0 1,0 7.2,0 a3.6,4.4 0 1,0 -7.2,0 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M45.6,55 a1.4,1.4 0 1,0 2.8,0 a1.4,1.4 0 1,0 -2.8,0 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M62.6,55 a1.4,1.4 0 1,0 2.8,0 a1.4,1.4 0 1,0 -2.8,0 Z" />
+    <path android:fillColor="#FF8A95" android:pathData="M35,66 a4,2.4 0 1,0 8,0 a4,2.4 0 1,0 -8,0 Z" />
+    <path android:fillColor="#FF8A95" android:pathData="M65,66 a4,2.4 0 1,0 8,0 a4,2.4 0 1,0 -8,0 Z" />
+    <path android:strokeColor="#6B2E1F" android:strokeWidth="2" android:strokeLineCap="round" android:fillColor="#00000000" android:pathData="M47,67 Q54,75 61,67" />
+</vector>
