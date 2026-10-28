@@ -12,7 +12,10 @@ Android-Puppenhaus-App für Kinder ab 4–5 Jahren mit Ben, Mia, Hund Bello und 
   - oben auf die Rutsche → rutscht von allein runter
   - in den Sandkasten → spielen
   - Bello ins Körbchen oder in die Hundehütte, Flocke aufs Kissen → schlafen
-- **Umziehen:** Figur oder Spielzeug auf einen Zimmer-Knopf unten ziehen.
+- **Zimmer wechseln:** Figur oder Spielzeug auf einen Zimmer-Knopf unten ziehen.
+- **Kleiderschrank (Kinderzimmer):** Schrank antippen oder Ben/Mia auf den Schrank ziehen – je 5 Outfits.
+  - Ben: Alltag, Fußball, Pirat, Feuerwehr, Schlafanzug
+  - Mia: Alltag, Prinzessin, Sommer, Regen, Schlafanzug
 - **Füttern:** Kühlschrank öffnen oder Toaster antippen, dann Essen auf eine Figur ziehen.
 - **Spielzeug geben:** Spielzeug auf eine Figur ziehen – sie reagiert (z. B. Knochen zu Bello, Seifenblasen zu Mia).
 - **Spielzeug:** Ball, Teddy, Ente, Auto (fährt), Bauklötze A/B/C (zum Turm stapeln), Kreisel, Luftballon (platzt), Knochen (Bello holt ihn), Gießkanne (Blumen wachsen), Seifenblasen.
