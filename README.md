@@ -4,17 +4,21 @@ Android-Puppenhaus-App für Kinder ab 4–5 Jahren mit Ben, Mia, Hund Bello und 
 
 ## Spielen
 
-- **4 Zimmer:** Wohnzimmer, Kinderzimmer, Küche, Badezimmer – unten antippen zum Wechseln.
+- **6 Zimmer:** Wohnzimmer, Kinderzimmer, Küche, Badezimmer, Spielzimmer und Garten – unten antippen zum Wechseln.
 - **Figuren ziehen:** Ben, Mia, Bello und Flocke mit dem Finger verschieben.
-  - aufs Sofa oder auf einen Hocker → sitzen
-  - ins Hochbett (oben oder unten) → schlafen
-  - in die Badewanne → baden
-  - Bello ins Körbchen, Flocke aufs Kissen → schlafen
-- **Umziehen in ein anderes Zimmer:** Figur oder Spielzeug auf einen Zimmer-Knopf unten ziehen.
-- **Füttern:** Kühlschrank öffnen, Essen antippen, dann Apfel, Möhre, Keks oder Banane auf eine Figur ziehen.
-- **Zum Antippen:** Lampen, Fenster (Tag/Nacht), Fernseher, Blume, Spielkiste, Herd, Waschbecken, Badewanne, Toilette, Ball, Teddy, Ente und alle Figuren.
+  - aufs Sofa, auf einen Hocker oder den Sitzsack → sitzen
+  - ins Hochbett → schlafen, in die Badewanne → baden
+  - aufs Schaukelpferd → wippen, auf die Schaukel → schaukeln
+  - oben auf die Rutsche → rutscht von allein runter
+  - in den Sandkasten → spielen
+  - Bello ins Körbchen oder in die Hundehütte, Flocke aufs Kissen → schlafen
+- **Umziehen:** Figur oder Spielzeug auf einen Zimmer-Knopf unten ziehen.
+- **Füttern:** Kühlschrank öffnen oder Toaster antippen, dann Essen auf eine Figur ziehen.
+- **Spielzeug geben:** Spielzeug auf eine Figur ziehen – sie reagiert (z. B. Knochen zu Bello, Seifenblasen zu Mia).
+- **Spielzeug:** Ball, Teddy, Ente, Auto (fährt), Bauklötze A/B/C (zum Turm stapeln), Kreisel, Luftballon (platzt), Knochen (Bello holt ihn), Gießkanne (Blumen wachsen), Seifenblasen.
+- **Zum Antippen:** Lampen, Fenster und Sonne (Tag/Nacht), Fernseher, Kuckucksuhr, Blume, Mobile, Spielkiste, Herd, Toaster, Waschbecken, Badewanne, Toilette, Xylophon, Trommel, Staffelei, Radio (alle tanzen!), Sandkasten.
 - Alle paar Sekunden wackelt ein Gegenstand, damit Kinder neue Sachen entdecken.
-- Der Spielstand wird automatisch gespeichert. „Neu anfangen“ auf dem Startbildschirm (zweimal tippen) setzt alles zurück.
+- Der Spielstand wird automatisch gespeichert (alte Spielstände bleiben erhalten). „Neu anfangen“ auf dem Startbildschirm (zweimal tippen) setzt alles zurück.
 
 ## APK bauen (ohne Android Studio)
 
