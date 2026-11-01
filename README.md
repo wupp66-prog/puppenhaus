@@ -1,10 +1,10 @@
 # Ben & Mia – Das Puppenhaus
 
-Android-Puppenhaus-App für Kinder ab 4–5 Jahren mit Ben, Mia, Hund Bello und Kaninchen Flocke.
+Android-Puppenhaus-App für Kinder ab 4–5 Jahren mit Ben, Mia, Mama, Papa, Hund Bello und Kaninchen Flocke.
 
 ## Spielen
 
-- **6 Zimmer:** Wohnzimmer, Kinderzimmer, Küche, Badezimmer, Spielzimmer und Garten – unten antippen zum Wechseln.
+- **7 Zimmer:** Wohnzimmer, Kinderzimmer, Elternzimmer, Küche, Badezimmer, Spielzimmer und Garten – unten antippen zum Wechseln.
 - **Figuren ziehen:** Ben, Mia, Bello und Flocke mit dem Finger verschieben.
   - aufs Sofa, auf einen Hocker oder den Sitzsack → sitzen
   - ins Hochbett → schlafen, in die Badewanne → baden
@@ -16,6 +16,11 @@ Android-Puppenhaus-App für Kinder ab 4–5 Jahren mit Ben, Mia, Hund Bello und 
 - **Kleiderschrank (Kinderzimmer):** Schrank antippen oder Ben/Mia auf den Schrank ziehen – je 5 Outfits.
   - Ben: Alltag, Fußball, Pirat, Feuerwehr, Schlafanzug
   - Mia: Alltag, Prinzessin, Sommer, Regen, Schlafanzug
+- **Elternzimmer:** Mama und Papa schlafen im Doppelbett, Kinder und Tiere können sich dazusetzen. Der Wecker weckt die Eltern.
+- **Kleiderschrank (Elternzimmer):** je 5 Outfits.
+  - Papa: Alltag, Anzug, Koch, Sport, Schlafanzug
+  - Mama: Alltag, Festkleid, Ärztin, Yoga, Nachthemd
+- **Kuscheln:** Ben oder Mia auf Mama oder Papa ziehen.
 - **Füttern:** Kühlschrank öffnen oder Toaster antippen, dann Essen auf eine Figur ziehen.
 - **Spielzeug geben:** Spielzeug auf eine Figur ziehen – sie reagiert (z. B. Knochen zu Bello, Seifenblasen zu Mia).
 - **Spielzeug:** Ball, Teddy, Ente, Auto (fährt), Bauklötze A/B/C (zum Turm stapeln), Kreisel, Luftballon (platzt), Knochen (Bello holt ihn), Gießkanne (Blumen wachsen), Seifenblasen.
